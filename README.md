@@ -1,1 +1,95 @@
-# Portfolio
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gurusharan G Portfolio</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+        }
+
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+
+        h2 {
+            color: darkgreen;
+        }
+
+        hr {
+            border: 1px solid gray;
+        }
+
+        ul {
+            line-height: 25px;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: gray;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Gurusharan G</h1>
+        <p style="text-align:center;">Student | Beginner Web Developer</p>
+
+        <hr>
+
+        <h2>About Me</h2>
+        <p>
+            Hello! My name is Gurusharan G. 
+            I am interested in programming and web development.
+            I enjoy learning new technologies and improving my coding skills.
+        </p>
+
+        <hr>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>C Programming</li>
+            <li>Python Basics</li>
+        </ul>
+
+        <hr>
+
+        <h2>Projects</h2>
+
+        <p><b>Portfolio Website</b></p>
+        <p>Created a simple responsive website using HTML and CSS.</p>
+
+        <p><b>Mini Programs in C</b></p>
+        <p>Developed basic programs like calculator and number checker.</p>
+
+        <hr>
+
+        <h2>Contact</h2>
+        <p>Email: gurusharan@example.com</p>
+        <p>Phone: 1234567890</p>
+
+        <div class="footer">
+            <p>© 2026 Gurusharan G</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
