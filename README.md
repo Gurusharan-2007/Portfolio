@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title>Gurusharan G Portfolio</title>
+    <title>Gurusharan G PORTFOLIO</title>
 
     <style>
         body {
@@ -66,7 +66,7 @@
             <li>HTML</li>
             <li>CSS</li>
             <li>C Programming</li>
-            <li>Python Basics</li>
+            
         </ul>
 
         <hr>
@@ -76,14 +76,13 @@
         <p><b>Portfolio Website</b></p>
         <p>Created a simple responsive website using HTML and CSS.</p>
 
-        <p><b>Mini Programs in C</b></p>
-        <p>Developed basic programs like calculator and number checker.</p>
+        
 
         <hr>
 
         <h2>Contact</h2>
-        <p>Email: gurusharan@example.com</p>
-        <p>Phone: 1234567890</p>
+        <p>Email: gurusharang.cs25@bitsathy.ac.in</p>
+        <p>Phone: 9345590794</p>
 
         <div class="footer">
             <p>© 2026 Gurusharan G</p>
